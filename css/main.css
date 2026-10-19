@@ -1,0 +1,306 @@
+/* GLOBAL STYLING */
+.text-center{
+    text-align: center;
+}
+/* .color-white{
+    color: white;
+
+} */
+ 
+
+.float-left{
+    float: left;
+}
+.float-right{
+    float: right;
+}
+.clear-fix{
+    clear: both;
+}
+.w-100{
+    width: 100%;
+}
+.box-sizing{
+    box-sizing: border-box;
+     
+}
+.margin-top{
+    margin-top: 30px;
+}
+.clear-fix{
+    clear: both;
+
+}
+.margin-bottom {
+    margin-bottom: 30px;
+}
+.background-color{
+      background-color:#ffffff 
+}
+.w-70{
+      /* width: 70%; */
+}
+.w-50{
+    width: 50%;
+}
+.border-radius{
+     border-radius: 20px;
+}
+.color{
+    color: #0B477F
+}
+padding-y{
+    padding: 0 40px;
+}
+.h-fixed{
+    height: 120px;
+}
+.border-bottom{
+     border-bottom:1px solid #EAF5FF 
+    }
+.h2-font{
+        font-size: 18px;
+        font-size: 24px;
+}
+
+body{
+    background-color: #DBE0E7;
+    margin: 0;
+}
+.container{
+    width: 70%;
+    margin: 0 auto;
+    
+    /* background-color: #7b1874; */
+}
+
+header{
+    background-color: #18487B;
+     padding: 26px 20px ;
+     border-radius: 15px;
+     width: 70%;
+     margin: auto;
+    
+
+}
+header p{
+    color: #ACBFCB;
+    padding-bottom: 16px;
+}
+header h1{
+    color: #FFFFFF;
+}
+header a button{
+    border-radius: 16px;
+    background-color:#2a5685 ;
+    border: none;
+    border-radius: 24px;
+    padding: 14px 20px;
+}
+.about-me{
+    border-radius: 20px;
+    padding: 30px;
+    margin-top: 30px;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+    
+   
+
+.about-me .card1{
+    /* width: 50%; */
+   
+}
+.about-me .about-header h2{
+  
+   padding-bottom: 16px;
+   font-size: 24px;
+   margin-top: 0;
+   margin-bottom: 20px;
+}
+.about-me .card1 .content{
+    /* background-color: blueviolet; */
+    width: 70%;
+    margin-left:1%;
+    color:gray;
+   
+
+}
+.about-me .card1 .image{
+    width: 25%;
+    
+}
+
+.about-me .card1 .image img{
+    height: 180px;
+    width: 180px;
+    display: block;
+    border-radius: 50%;
+}
+.about-me .content .span{
+    color:#0B65B3 ;
+    font-weight: bold;
+}
+.about-me .content .github-link{
+    display: inline-block;
+    margin-top: 15px;
+    background-color:#2a5685 ;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-weight: 500;
+}
+
+.my-skills .about-skills  h2{
+ padding-bottom: 16px;
+   
+   margin-top: 0;
+   margin-bottom: 20px;
+  
+}
+.my-skills .content{
+    width: 70%;
+    margin-left:1%;
+    color:gray;
+}
+.my-skills{
+     padding: 30px;
+    margin-top: 30px;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.my-skills .cards{
+    /* background-color: brown; */
+   
+
+   
+
+}
+.my-skills .cards .each-card{
+   background-color: #f8fafc;     
+    width: 22.5%;                    
+    float: left;
+    margin-right: 2.3%;            
+    padding: 20px;
+    box-sizing: border-box;        
+    border-radius: 12px;           
+    border: 1px solid #e2e8f0;     
+    margin-bottom: 20px;
+}
+.my-skills .cards .react{
+    margin-right: 0;
+}
+.my-skills .cards h3{
+    color:#1165AD;
+    
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+.my-skills .cards p{
+    font-size: 14px;
+    margin: 0;
+    padding-bottom: 20px;
+
+}
+
+.experience .experience-card {
+    background-color: #f8fafc;
+    border: 1px solid #e2e8f0;
+    border-left: 4px solid #18487B;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.experience {
+    padding: 30px;
+    margin-top: 30px;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.experience .exp-img {
+    width: 15%;
+}
+
+.experience .exp-img img {
+    width: 60px;
+    height: 60px;
+    border-radius: 10px;
+}
+
+.experience .exp-info {
+    width: 82%;
+    margin-left: 3%;
+}
+
+.experience .exp-info h3 {
+    color: #18487B;
+    font-size: 18px;
+    margin-top: 0;
+    margin-bottom: 6px;
+}
+
+.experience .exp-info h4 {
+    color: #0B65B3;
+    font-size: 14px;
+    margin-top: 0;
+    margin-bottom: 6px;
+}
+
+.experience .exp-info .date {
+    color: gray;
+    font-size: 13px;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.experience .exp-info p {
+    color: #4A5568;
+    font-size: 14px;
+    margin: 0;
+}
+.contact-me {
+    background-color: #18487B;
+    padding: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+
+.contact-me .about-contact h2 {
+    color: #ffffff;
+    font-size: 24px;
+    margin-top: 0;
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.contact-me .content .text {
+    color: #e2e8f0;
+    font-size: 14px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+.contact-links{
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
+
+.contact-me .link-btn {
+    display: block;
+    background-color: rgba(255, 255, 255, 0.12);
+    color: #ffffff;
+    padding: 10px 18px;
+    border-radius: 8px;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    font-size: 14px;
+    margin-right: 12px;
+}
+
+.contact-me .link-btn  .git {
+    margin-right: 0;
+}
